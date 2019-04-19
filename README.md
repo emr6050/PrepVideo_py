@@ -9,4 +9,4 @@ fuctionality to prepare videos for uploading to S3
 * * ```pip install moviepy```
 * * ```pip install boto3```
 * Environment variables
-** ```VOD_SRC_BUCKET```
+* * ```VOD_SRC_BUCKET```
